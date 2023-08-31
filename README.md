@@ -1,4 +1,10 @@
-### Hi there 👋
+😄😄 Hi Visitors,
+
+My name is Tianhao Zhang and I am currently enrolled in CMU AI Master program. I am actively looking for US-based 2024 summer internship in software, machine learning, artificial intelligence, data science, computational materials science, semiconductor modeling, etc. My career interest is wide-ranging, from fundamental semiconductor device physics to electrical firmware/hardware design to software/algorithm design and data analysis. I am fascinated by miniaturized micro/nano-scale chip and nano-materials as well as associated large-scale micro-fabrication equipment and robot. My long-term career goal is targeted at applying state-of-the-art AI technologies to address challenging issues in a wide spectrum of engineering application fields.
+
+Please visit my linkedin webpage to know more about my profile: http://www.linkedin.com/in/.anhaoharryzhang
+
+Specialities: semiconductor fabrication and characterization (XRD, SEM, TEM, AFM, Raman, FTIR, OM), magnetic nano-particle, micro-fluidics, surface patterning, inkjet print, MEMS chip, OLED device fabrication, display optics and color science, Python/Matlab/JMP data analysis and visualization, Regression, K-means/DBSCAN Clustering, Neural Network, C++/C, SQL/SQLite, Qt Creator, PyQt5
 
 <!--
 **TianhaoHarryZhang/TianhaoHarryZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
